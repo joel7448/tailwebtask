@@ -1,5 +1,5 @@
 export const config = () => {
     return({
-       api : "http://localhost:8800"
+       api : "https://tailweb-backend.vercel.app"
     })
    }

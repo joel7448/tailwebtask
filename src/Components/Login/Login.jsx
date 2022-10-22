@@ -33,7 +33,7 @@ alert(user.data.message);
 
      }
      catch(err){
-      alert("Not Authorized");
+      alert("Not  Authorized");
       console.log(err);
      }      
 

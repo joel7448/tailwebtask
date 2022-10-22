@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.logo{
+   
+   color: white;
+    letter-spacing: 5px;
+   height: 100vh;
+   /* background-color:aqua */
+    
+}
+.log{
+    width:100%;
+}
+.img-fluid{
+    height: 300px;
+    width:300px;
+}

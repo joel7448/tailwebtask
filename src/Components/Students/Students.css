@@ -1,0 +1,21 @@
+.crud-edit{
+    width:70px !important;
+}
+.crud-delete{
+    width: 70px;
+}
+.crud-view{
+    width:70px;
+}
+.table{
+    overflow-y: scroll;
+}
+
+.border{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.headers{
+    position: sticky;
+    top:0;
+}

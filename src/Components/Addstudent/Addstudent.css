@@ -1,0 +1,42 @@
+
+.addeditform{
+    height: 400px;
+    width:400px;
+    padding: 10px;
+    border-radius: 20px;
+   /* opacity: 1; */
+   background-color: rgb(198, 227, 252);
+    
+}
+.addedit{
+   
+background-image: url('https://myviewboard.com/blog/wp-content/uploads/2020/08/MP0027-01-scaled.jpg');
+    height: calc(100vh);
+    width:100vw;
+    display: grid;
+    
+    background-size: cover;
+  background-position: center;
+ 
+
+    padding-top:100px ;
+    /* background-color: antiquewhite; */
+    place-content: center;
+    
+
+}
+
+.PIC{
+ object-fit: contain;
+ 
+}
+.addeditbtn{
+    letter-spacing: 2px;
+}
+#button1{
+    color: blue;
+}
+/* !important > inline styles > id > class > elementname */
+.button{
+    color : white !important;
+}
